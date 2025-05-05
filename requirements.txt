@@ -1,3 +1,8 @@
-streamlit
+ststreamlit
 matplotlib
+pandas
+numpy
 tensorflow
+scikit-learn
+seaborn
+protobuf==3.20.*
